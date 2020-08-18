@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif)
+![](https://www.apañados.es/images/images33/gif-david-whyte-4.gif)
 
 ## Hola! Yo soy Luis Fernando Castro Montero, soy de Colombia.
