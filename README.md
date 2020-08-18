@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ![](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif)
 
-## Hola! Yo soy Luis Fernando Castro Montero, soy de Colombia.
+## Hola! Yo soy Luis Fernando Castro Montero, 
+## from Colombia.
